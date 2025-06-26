@@ -6,7 +6,6 @@ from langchain_community.document_loaders import YoutubeLoader,UnstructuredURLLo
 
 import os
 from dotenv import load_dotenv
-load_dotenv()
 
 
 ## sstreamlit APP
